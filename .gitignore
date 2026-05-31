@@ -1,0 +1,25 @@
+# macOS junk files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.python-version
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+Thumbs.db
